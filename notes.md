@@ -48,3 +48,4 @@ wav = model.generate_continuation(prompt_wav, prompt_sample_rate=sr, description
 wav = model.generate_unconditional(3)  # 3 samples
 
 m2 chip
+
